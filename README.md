@@ -3,7 +3,7 @@
 
 Только десктопная версия, посмотреть можно здесь https://vaylont.github.io/Robo-School/
 
-Оригинальый макет - https://www.figma.com/design/bSxMNm0CRXFcHQzke8C8W5/ROBO-SCHOOL?node-id=1-350&amp;t=teI1qDSyH2iw1aM7-0
+Оригинальный макет - https://www.figma.com/design/bSxMNm0CRXFcHQzke8C8W5/ROBO-SCHOOL?node-id=1-350&amp;t=teI1qDSyH2iw1aM7-0
 
 
 Не использовал js, слайдеры не делал
